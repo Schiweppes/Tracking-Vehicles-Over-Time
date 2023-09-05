@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
-
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Schiweppes/Tracking-Vehicles-Over-Time">
     <img src="image_sources\tracking.gif" alt="Logo" width="540" height="360">
   </a>
 
@@ -17,9 +16,17 @@
   <a href="https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/issues">Report Bug</a>
   ·
   <a href="https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/issues">Request Feature</a>
+
 </p>
 </div>
 
+
+
+<div align="center">
+
+  <a href="">![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)</a>
+
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -117,7 +124,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 * Deniz Temur - deniztemur00@gmail.com
 * [![LinkedIn][linkedin-shield]][linkedin-url]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
