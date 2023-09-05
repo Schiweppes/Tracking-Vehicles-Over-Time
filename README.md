@@ -15,18 +15,16 @@
 
 <h3 align="center">Tracking Vehicles Over Time</h3>
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/Schiweppes/Tracking-Vehicles-Over-Time"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.youtube.com/watch?v=tuzf7ZrVbGA">Watch the Demo</a>
-    ·
-    <a href="https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/issues">Request Feature</a>
-  </p>
+<p align="center">
+  This project is aimed to track vehicles over time by fusing measurements from LiDAR and a camera.
+  <br />
+  <br />
+  <a href="https://www.youtube.com/watch?v=tuzf7ZrVbGA">Watch the Demo</a>
+  ·
+  <a href="https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/issues">Request Feature</a>
+</p>
 </div>
 
 
@@ -48,8 +46,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -62,7 +58,7 @@
 ## About The Project
 
 
-employed techniques to detect objects in 3D point clouds and then used an `Extended Kalman Filter` for sensor fusion and tracking. The extended Kalman filter (EKF) is an algorithm that allows us to estimate the state of a system and track it over time using noisy measurements. By combining the strengths of both `LiDAR` and camera sensors, we were able to improve the overall accuracy and robustness of the tracking system.
+In this project, I employed techniques to detect objects in 3D point clouds and then used an `Extended Kalman Filter` for sensor fusion and tracking. The extended Kalman filter (EKF) is an algorithm that allows us to estimate the state of a system and track it over time using noisy measurements. By combining the strengths of both `LiDAR` and camera sensors, we were able to improve the overall accuracy and robustness of the tracking system.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,6 +84,8 @@ Clone the repository on your local machine and run the `loop_over_dataset.py`. A
 ### Prerequisites
 
 I have provided the `requirements.txt`. I highly recommend you to create a virtual environment before installing the prerequsite libraries.
+
+### Installation
 * create a virtual environment
   ```sh
   py -m venv env
@@ -126,7 +124,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Deniz Temur - deniztemur00@gmail.com
+* Deniz Temur - deniztemur00@gmail.com
+* [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
