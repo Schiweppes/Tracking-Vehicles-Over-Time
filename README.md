@@ -6,7 +6,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -56,8 +56,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
 In this project, I employed techniques to detect objects in 3D point clouds and then used an `Extended Kalman Filter` for sensor fusion and tracking. The extended Kalman filter (EKF) is an algorithm that allows us to estimate the state of a system and track it over time using noisy measurements. By combining the strengths of both `LiDAR` and camera sensors, we were able to improve the overall accuracy and robustness of the tracking system.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -141,7 +139,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
@@ -149,7 +146,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
 [stars-url]: https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/Schiweppes/Tracking-Vehicles-Over-Time/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
