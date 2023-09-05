@@ -48,7 +48,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -125,7 +125,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 * Deniz Temur - deniztemur00@gmail.com
-* [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
