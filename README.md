@@ -21,12 +21,12 @@
 </div>
 
 
-
+<!-- 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/deniz-temur-727dt/">![linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)</a>
 
-</div>
+</div> -->
 
 <!-- TABLE OF CONTENTS -->
 <details>
